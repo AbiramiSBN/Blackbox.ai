@@ -1,0 +1,7 @@
+tensorflow
+torch
+spacy
+scikit-learn
+onnxruntime
+nltk
+jax
